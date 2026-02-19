@@ -1,4 +1,4 @@
-# SP-500-Top-Companies-Analysis-Dashboard
+# S&P-500-Top-Companies-Analysis-Dashboard
 This project features an interactive Power BI dashboard designed to analyze and compare 8 of the most influential S&P 500 companies (including Apple, Nvidia, and Tesla). The data was pre-processed using Python to ensure accuracy in financial modeling and risk assessment.
 
 Key Features
@@ -11,8 +11,11 @@ Key Features
 -> Python Data Engineering: Backend processing handled by Python to ensure data integrity, specifically addressing stock splits for accurate volatility calculations.
 
 Tech Stack:
+
 Data Processing -> Python (Pandas)
+
 Visualization -> Power BI
+
 Data Source -> https://www.kaggle.com/datasets/ibrahimshahrukh/top-10-s-and-p-500-stocks-2010-2026-analysis/data
 
 
