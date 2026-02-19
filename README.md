@@ -2,6 +2,8 @@
 This project features an interactive Power BI dashboard designed to analyze and compare 8 of the most influential S&P 500 companies (including Apple, Nvidia, and Tesla). The data was pre-processed using Python to ensure accuracy in financial modeling and risk assessment.
 
 ![image alt](https://github.com/QuantumDataaa/S-P-500-Top-Companies-Analysis-Dashboard/blob/main/gielda.PNG?raw=true)
+![image alt](https://github.com/QuantumDataaa/S-P-500-Top-Companies-Analysis-Dashboard/blob/main/AvgoMarket.PNG?raw=true)
+![image alt](https://github.com/QuantumDataaa/S-P-500-Top-Companies-Analysis-Dashboard/blob/main/TslaMarket.PNG?raw=true)
 
 Key Features
 
