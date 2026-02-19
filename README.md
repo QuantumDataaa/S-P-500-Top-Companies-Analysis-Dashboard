@@ -2,6 +2,7 @@
 This project features an interactive Power BI dashboard designed to analyze and compare 8 of the most influential S&P 500 companies (including Apple, Nvidia, and Tesla). The data was pre-processed using Python to ensure accuracy in financial modeling and risk assessment.
 
 Key Features
+
 -> Dynamic Company Profiles: Single-selection analysis for 8 market leaders (including Apple, Nvidia, and Tesla).
 
 -> Performance Tracking (2010-2026): Comprehensive analysis of price evolution and total gains across nearly two decades of market history.
